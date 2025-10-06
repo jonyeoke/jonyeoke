@@ -1,4 +1,4 @@
-<h1 align="center">JonyeokLEE</h1>
+<h1 align="center">JongHyeok LEE</h1>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
