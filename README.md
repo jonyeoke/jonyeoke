@@ -23,9 +23,6 @@
   <a href="https://www.instagram.com/jonyeok/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonyeok/"/>&nbsp
   </a>
-  <a href="https://www.youtube.com/@hyeok_jong_e">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@hyeok_jong_e"/>&nbsp\
-  </a>
   <a href="https://www.linkedin.com/in/%EC%A2%85%ED%98%81-%EC%9D%B4-269b50324/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A2%85%ED%98%81-%EC%9D%B4-269b50324/"/>&nbsp\
   </a>
