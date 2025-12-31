@@ -29,7 +29,7 @@
 ---
 
 **🚌 Top Langs**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyeoke&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyeoke&layout=compact&theme=radical&t=1)
 
 ---
 
