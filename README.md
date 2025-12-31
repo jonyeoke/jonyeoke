@@ -33,7 +33,6 @@
 ---
 
 ![jonyeoke's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jonyeoke&show_icons=true&theme=radical)
-
-![jonyeoke's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonyeoke&layout=compact&theme=radical)
+![jonyeoke's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonyeoke&layout=donut&theme=radical)
 
 ---
