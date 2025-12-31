@@ -31,3 +31,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ---
+
+![jonyeoke's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jonyeoke&show_icons=true&theme=radical)
+
+![jonyeoke's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonyeoke&layout=compact&theme=radical)
+
+---
