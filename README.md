@@ -10,7 +10,7 @@
 👨‍👩‍👧‍👦 **금융 소외 문제를 해결**합니다
 
 - 🔭 **Interest:** Financial AI (ML/DL/RL), XAI, Data Analysis, Quant Trading
-- 🎓 **Education:** 광운대학교 컴퓨터정보공학부 지능정보공학전공 (2020.03 ~ 2026.02 졸업 예정)
+- 🎓 **Education:** 광운대학교 컴퓨터정보공학부 지능정보공학전공 (2020.03 ~ 2026.02)
 - 📧 **Contact:** [jonghyeoklee0703@gmail.com](mailto:jonghyeoklee0703@gmail.com)
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 **🚌 Top Langs**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyeoke&layout=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyeoke&layout=donut)
 
 ---
 
