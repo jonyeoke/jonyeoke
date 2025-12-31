@@ -17,13 +17,17 @@
 
 ### 🛠️ Tech Stack
 
+
 **Languages**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 **AI & Data Science**
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
 **Tools & Environment**
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ---
@@ -31,5 +35,5 @@
 ![jonyeoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonyeoke&show_icons=true&theme=radical)
 ![jonyeoke's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonyeoke&layout=compact&theme=radical)
 
----
+
 
