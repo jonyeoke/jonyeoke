@@ -4,7 +4,6 @@
 
 # 낭만이 넘치는 개발자, 이종혁입니다
 
-**AI Engineer** — AI Agent · RAG · Machine Learning · XAI
 
 AI Agent부터 Machine Learning & XAI까지,<br>
 금융과 업무 현장의 문제를 AI와 데이터로 풀어왔습니다.
