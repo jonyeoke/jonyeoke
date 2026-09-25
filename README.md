@@ -28,7 +28,7 @@ AI Agent부터 Machine Learning & XAI까지,<br>
 <br>
 
 - **학력** &nbsp; 광운대학교 컴퓨터정보공학부 지능정보공학전공 (2020.03 – 2026.02) · GPA 4.14 / 4.5
-- **교육** &nbsp; 우리FIS 아카데미 6기, 960시간 (2025.12 – 2026.06) · 우수 수료생
+- **교육** &nbsp; 우리FIS 아카데미 6기 - AI 엔지니어링 과정, 960시간 (2025.12 – 2026.06) · 우수 수료생
 - **논문** &nbsp; [기본적 분석 및 머신러닝 앙상블 모델 기반의 주식 종목 선택](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003240018) — 데이타베이스연구, 2025.08 · 제2저자 (KCI 등재)
 - **자격** &nbsp; 정보처리기사 · SQLD · TOEIC 915
 
